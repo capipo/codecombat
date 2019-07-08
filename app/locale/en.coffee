@@ -723,6 +723,8 @@ module.exports = nativeDescription: "English", englishDescription: "English", tr
     concept_unlocked: "Concept Unlocked"
     use_at_least_one_concept: "Use at least one concept: "
     command_bank: "Command Bank"
+    vega_character: "Vega Character"
+    click_to_continue: "Click to Continue"
 
   apis:
     methods: "Methods"
